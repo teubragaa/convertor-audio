@@ -1,9 +1,9 @@
 ````markdown
 # 🎵 Convertor Audio
 
-Aplicação simples desenvolvida em **Python** para extrair áudio de vídeos e convertê-lo para **MP3**.
+Aplicação simples desenvolvida em *Python* para extrair áudio de vídeos e convertê-lo para *MP3*.
 
-O projeto utiliza **yt-dlp**, **FFmpeg** e **Docker**, permitindo executar a aplicação sem precisar instalar Python, FFmpeg ou as dependências diretamente na máquina.
+O projeto utiliza *yt-dlp*, *FFmpeg* e **Docker*, permitindo executar a aplicação sem precisar instalar Python, FFmpeg ou as dependências diretamente na máquina.
 
 ---
 
