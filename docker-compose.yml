@@ -1,0 +1,10 @@
+services:
+  audioforge:
+    build: .
+    container_name: audioforge
+
+    volumes:
+      - ./downloads:/app/downloads
+
+    stdin_open: true
+    tty: true
